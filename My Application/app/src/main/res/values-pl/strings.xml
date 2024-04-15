@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moja Aplikacja</string>
+    <string name="happy_birthday_text">Wszystkiego Najlepszego Sam!</string>
+    <string name="signature_text">From Maks</string>
+</resources>
